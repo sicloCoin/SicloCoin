@@ -13,7 +13,7 @@ Símbolo: Siclo
 Quantidade: 101.000.000
 Hash Algoritmo: POS
 Plataforma: Waves
-Pares: Siclo/Waves 
+Pares: Siclocoin/Waves 
 Carteira: Waves
 Preço Token: 1 Siclo = 0,08 Waves
 Emissor: 3PGaHzumakaTsYvRKgUqcSAR6XgzM6uhT1H
