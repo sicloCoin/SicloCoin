@@ -1,4 +1,4 @@
-# sicloCoin
+# SicloCoin
 A SicloCoin é uma nova moeda experimental que permite pagamentos anônimos instantâneos a qualquer pessoa, em qualquer lugar do mundo. 
 A SicloCoin usa tecnologia peer-to-peer para operar sem a necessidade de autoridade central.
 
