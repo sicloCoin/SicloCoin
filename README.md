@@ -31,7 +31,7 @@ Dados Técnicos
 Código Fonte
 A SicloCoin começou diretamente como um token na cadeia de blocos Waves, portanto usará todos os parâmetros oferecidos pela Plataforma Waves, que tem como diferencial exatamente a simplicidade em um mercado inovador.
 GitHub Fonte 
-https://github.com/wavesplatform/WavesGUI/releases
+https://github.com/wavesplatform
 
 Licenças
 A SicloCoin é lançada nos termos de licença MIT, consulte licença para obter mais informações ou consulte:
