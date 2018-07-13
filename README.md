@@ -3,9 +3,8 @@ A SicloCoin é uma nova moeda experimental que permite pagamentos anônimos inst
 A SicloCoin usa tecnologia peer-to-peer para operar sem a necessidade de autoridade central.
 
 Visão
-Explorar o mercado a fim de extrair produtos, encontrar possibilidades que visa um desenvolvimento em nossa sociedade e a popularização o uso das moedas digitais.
-Criar um mercado descentralizado, ou seja que as moedas possam ser usadas como meio de troca(escambo) sem a necessidade de moeda Fiat ou bancos.
-
+Explorar o mercado de criptografia em um cenário que contribui de forma real para o bem estar de uma classe, à saber os Pets. Precisamos experimentar novos cenários e agregar valor de fato em nossa sociedade..
+Criar um mercado descentralizado, em que as pessoas vejam que é possível usar criptomoedas no seu dia a dia, ou seja criptomoedas pode ser uma moeda de troca.
 
 SicloCoin Suprimento
 Nome: SicloCoin
