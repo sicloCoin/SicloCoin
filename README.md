@@ -64,10 +64,10 @@ https://wavesplatform.com/
 Explorer
 http://wavesexplorer.com/
 Rápido, de baixo custo e escalável.
-Blocos de minuto
-Taxas de transações baixas (0.001 Waves)
-As taxas podem ser pagas em tokens
-Até 1.000 tx por segundo
+Blocos de minuto.
+Taxas de transações baixas (0.001 Waves).
+As taxas podem ser pagas em tokens.
+Até 500 tx por segundo.
 
 Exchange (troca)
 Para negociar seus tokens SicloCoin (Siclo) você pode fazê lo diretamente dentro da plataforma Waves através do Waves DEX.
