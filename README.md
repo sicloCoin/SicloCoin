@@ -1,14 +1,16 @@
 # SicloCoin
-A SicloCoin é uma nova moeda experimental que permite pagamentos anônimos instantâneos a qualquer pessoa, em qualquer lugar do mundo. 
+A SicloCoin é uma criptomoeda (token) criado na WavesPlatform com foco no mercado pet.
 A SicloCoin usa tecnologia peer-to-peer para operar sem a necessidade de autoridade central.
 
+O token SicloCoin está sendo desenvolvido com foco no mercado Pet, visando construir um ecossistema forte, preenchendo espaços e aproveitando o enorme valor de mercado.
+
 Visão
-Explorar o mercado de criptografia em um cenário que contribui de forma real para o bem estar de uma classe, à saber os Pets. Precisamos experimentar novos cenários e agregar valor de fato em nossa sociedade..
-Criar um mercado descentralizado, em que as pessoas vejam que é possível usar criptomoedas no seu dia a dia, ou seja criptomoedas pode ser uma moeda de troca.
+Explorar o mercado de criptografia em um cenário que contribui de forma real para o bem estar da sociedade.
+Criar um mercado descentralizado, em que as pessoas vejam que é possível usar criptomoedas no seu dia a dia.
 
 SicloCoin Suprimento
 Nome: SicloCoin
-Símbolo: Siclo
+Símbolo:[SCL]
 Quantidade: 101.000.000
 Hash Algoritmo: POS
 Plataforma: Waves
@@ -18,13 +20,7 @@ Preço Token: 1 Siclo = 0,08 Waves
 Emissor: 3PGaHzumakaTsYvRKgUqcSAR6XgzM6uhT1H
 ID do Ativo: 2Sq6wToFH4rFr9SiKcrcaFpgauXpeQqS3RxNUvL5E9Nn
 
-O preço do token Siclo será determinado usando a cotação da Waves Plataforma, com base no dia.
-
-Observações: A distribuição dos tokens será feito de forma livre com limite determinado pelos organizadores do projeto. 
-A distribuição gratuita será realizada nas devidas carteiras cadastradas no formulário sem prazo definido exatamente por questões de demanda, mas, os tokens serão alocados nas carteiras o mais breve possível a partir do lançamento.
-      Não nos responsabilizamos por qualquer erro no envio de carteiras ou extravios de tokens.
-Com relação aos Apoiadores Anjos, estes receberão os tokens gratuitos, porém de acordo com valor doado. Os tokens serão distribuídos com valor unitário de 1 Siclo = 0,08 WAVES cotação do dia.
-Os tokens Siclo serão enviados somente para carteiras Waves.
+O preço do token SicloCoin será determinado usando a cotação da Waves Plataforma, com base no dia.
 
 Dados Técnicos
 Código Fonte
