@@ -88,5 +88,3 @@ Um comparador centralizado e uma alta capacidade de canal,  permitem que você f
  Os fundos são mantidos em sua carteira, não na troca.
 
 Para saber todos os detalhes do projeto basta conferir nosso Whitepaper, e toda contribuição para o projeto será muito bem vindo.
-
-https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj28IbK2ubfAhWIlJAKHYrQDz8QjRx6BAgBEAU&url=https%3A%2F%2Ftwitter.com%2Fsiclocoin%3Flang%3Dar&psig=AOvVaw0As9v4ColX0uSGq6r-OG2A&ust=1547329726682454
